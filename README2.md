@@ -1,5 +1,3 @@
-
-```
 # NeuroStartUp
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
@@ -23,3 +21,4 @@
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
+```
